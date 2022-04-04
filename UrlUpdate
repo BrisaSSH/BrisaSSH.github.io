@@ -35,7 +35,7 @@
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
-      "PASS": ""
+      "PASS": "",
     },
     {
       "Name": "PREMIUM 02 | PLUS",
@@ -46,7 +46,7 @@
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "bolo",
-      "PASS": "bolo"
+      "PASS": "bolo",
     }
   ],
   "Networks": [
