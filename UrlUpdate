@@ -1,11 +1,13 @@
 {
-  "Version": "1.0.8",
+  "Version": "1.0.9",
   "ReleaseNotes": "TESTE UPDATE ONLINE @Header_0",
   "UrlUpdate": "https://raw.githubusercontent.com/BrisaSSH/OpenSSH4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/BrisaSSH/OpenSSH4g_site/main/UrlSms",
   "EmailFeedback": "https://raw.githubusercontent.com/BrisaSSH/OpenSSH4g_site/main/UrlSms",
   "UrlContato": "https://t.me/@Header_0",
   "UrlTermos": "https://raw.githubusercontent.com/BrisaSSH/OpenSSH4g_site/main/termos.html",
+  "CheckUser": "http://calicaweb.xyz:2095/checkUser",
+  "FormatCheck": "yyyymmdd",
   "Udp": [
     {
       "Porta": "7100"
@@ -25,10 +27,11 @@
   ],
   "Servers": [
     {
-      "Name": "SERVIDOR (BR01) ONLINE",
+      "Name": "CONECTA4G | PLUS",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "calicaweb.xyz",
+      "CheckUser": "http://calicaweb.xyz:2095/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
@@ -51,7 +54,7 @@
       "FLAG": "vivo",
       "Payload": "GET sni://mobilidade.cloud.caixa.gov.br HTTP/1.1[crlf]Host: calicaweb.xyz[crlf]X-Forward-Host: calicaweb.xyz[crlf]Connection: upgrade[crlf]upgrade: websocket[crlf][crlf]",
       "SNI": "mobilidade.cloud.caixa.gov.br",
-      "TlsIP": "mobilidade.cloud.caixa.gov.br",
+      "TlsIP": "104.16.57.6",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
