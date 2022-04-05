@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.10",
+  "Version": "1.0.11",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/BrisaSSH/OpenSSH4g_site/main/UrlUpdate",
   "UrlSms": "https://raw.githubusercontent.com/BrisaSSH/OpenSSH4g_site/main/UrlSms",
@@ -35,18 +35,18 @@
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
-      "PASS": "",
+      "PASS": ""
     },
     {
       "Name": "PREMIUM 02 | PLUS",
       "TYPE": "free",
       "FLAG": "br.png",
       "ServerIP": "calicaweb.xyz",
-      "CheckUser": "http://calicaweb.xyz:8989/checkUser",
+      "CheckUser": "http://calicaweb.xyz:2095/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
-      "PASS": ""',
+      "PASS": ""'
     }
   ],
   "Networks": [
