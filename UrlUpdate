@@ -7,6 +7,7 @@
   "UrlContato": "https://t.me/Header_0",
   "UrlTermos": "https://raw.githubusercontent.com/BrisaSSH/OpenSSH4g_site/main/termos.html",
   "CheckUser": "true",
+  "FormatCheck": "yyyymmdd",
   "UdpPort": "7300;7500;7295;7296;7200;7297;7298;7299;7400",
   "Servers": [
     {
