@@ -137,13 +137,13 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "❤️CLARO [SSL 1]",
+      "Name": "❤️CLARO [UNIVERSAL]",
       "FLAG": "claro",
-      "Payload": "GET wss://boom4u.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "boom4u.com.br",
-      "TlsIP": "boom4u.com.br",
-      "ProxyIP": "",
-      "ProxyPort": "",
+      "Payload": "GET wss://Atendimento.descomplica.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Header_0[crlf][crlf]",
+      "SNI": "Atendimento.descomplica.com.br",
+      "TlsIP": "No.descomplica.com.br",
+      "ProxyIP": "No.descomplica.com.br",
+      "ProxyPort": "443",
       "Info": "Tlsws"
     },
     {
