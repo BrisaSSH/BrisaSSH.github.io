@@ -92,7 +92,7 @@
       "FLAG": "vivo",
       "Payload": "GET wss://help.pornhub.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "help.pornhub.com",
-      "TlsIP": "162.159.135.63",
+      "TlsIP": "172.64.131.2",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
@@ -102,7 +102,7 @@
       "FLAG": "vivo",
       "Payload": "GET wss://support.uptodown.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "support.uptodown.com",
-      "TlsIP": "162.159.136.63",
+      "TlsIP": "172.64.194.2",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
@@ -112,7 +112,7 @@
       "FLAG": "vivo",
       "Payload": "GET wss://support.pokemon.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "support.pokemon.com",
-      "TlsIP": "172.64.130.2",
+      "TlsIP": "104.24.24.34",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
@@ -140,9 +140,9 @@
     {
       "Name": "❤️CLARO CLOUD",
       "FLAG": "claro",
-      "Payload": "GET wss://api.new.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "api.new.livestream.com",
-      "TlsIP": "api.new.livestream.com",
+      "Payload": "GET wss://community.kaltura.com HTTP/1.1[crlf]Host: [app_host][crlf]Connection: upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "community.kaltura.com",
+      "TlsIP": "104.17.73.206",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
@@ -160,9 +160,9 @@
     {
       "Name": "❤️CLARO CHUVA",
       "FLAG": "claro",
-      "Payload": "GET wss://uploads.api.new.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "uploads.api.new.livestream.com",
-      "TlsIP": "uploads.api.new.livestream.com",
+      "Payload": "GET wss://ct.livestream.com HTTP/1.1[crlf]Host: [app_host][crlf]Connection: upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "ct.livestream.com",
+      "TlsIP": "104.17.74.206",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
@@ -170,9 +170,9 @@
     {
       "Name": "❤️CLARO LIVESTREAM",
       "FLAG": "claro",
-      "Payload": "GET wss://api.new.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "api.new.livestream.com",
-      "TlsIP": "api.new.livestream.com",
+      "Payload": "GET wss://www.icanhazip.com HTTP/1.1[crlf]Host: [app_host][crlf]Connection: upgrade[crlf]Upgrade: websocket [crlf][crlf]",
+      "SNI": "www.icanhazip.com",
+      "TlsIP": "104.18.114.97",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
@@ -200,9 +200,9 @@
     {
       "Name": "❤️CLARO SPOTIFY ",
       "FLAG": "claro",
-      "Payload": "GET wss://api.new.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "api.new.livestream.com",
-      "TlsIP": "api.new.livestream.com",
+      "Payload": "GET wss://vimeo.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "vimeo.livestream.com",
+      "TlsIP": "104.18.114.97",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
