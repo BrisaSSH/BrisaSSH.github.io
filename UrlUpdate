@@ -1,5 +1,5 @@
 {
-  "Version": "1.4.0",
+  "Version": "1.5.0",
   "ReleaseNotes": "Nova Atualização Disponível VIVO online, vivo 360",
   "UrlUpdate": "https://raw.githubusercontent.com/BrisaSSH/OpenSSH4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/BrisaSSH/OpenSSH4g_site/main/UrlSms",
@@ -88,21 +88,21 @@
       "Info": "Proxy"
    },
     {
-      "Name": "💜VIVO FAST",
+      "Name": "💜VIVO Brisa",
       "FLAG": "vivo",
-      "Payload": "GET wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "carrinho-pos-familia.vivo.com.br",
-      "TlsIP": "104.18.6.80",
+      "Payload": "GET wss://unpkg.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: WebSocket[crlf][crlf]",
+      "SNI": "unpkg.com",
+      "TlsIP": "unpkg.com",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
    },
     {
-      "Name": "💜VIVO 360",
+      "Name": "💜VIVO 300",
       "FLAG": "vivo",
-      "Payload": "GET wss://vivo360.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "vivo360.vivo.com.br",
-      "TlsIP": "104.18.6.80",
+      "Payload": "GET wss://mobilidade.cloud.caixa.gov.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "mobilidade.cloud.caixa.gov.br",
+      "TlsIP": "104.16.56.6",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
