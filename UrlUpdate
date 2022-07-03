@@ -128,11 +128,11 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "💜VIVO Online",
+      "Name": "💜VIVO 🔥",
       "FLAG": "vivo",
-      "Payload": "GET wss://cinemaemcena.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "cinemaemcena.com.br",
-      "TlsIP": "104.21.68.176",
+      "Payload": "GET wss://telefonica.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "telefonica.com.br",
+      "TlsIP": "104.18.6.80",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
