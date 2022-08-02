@@ -1,5 +1,5 @@
 {
-  "Version": "1.8.0",
+  "Version": "1.9.0",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/BrisaSSH/OpenSSH4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/BrisaSSH/OpenSSH4g_site/main/UrlSms",
@@ -78,6 +78,16 @@
       "Info": "Tlsws"
    },
     {
+      "Name": "🟣VIVO temporário",
+      "FLAG": "vivo.png",
+      "Payload": "GET / HTTP/1.1[crlf]Host: o4619357t581eus539.agilewingcdn.com[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "recarga.vivo.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+      {
       "Name": "💜VIVO Neymar ON",
       "FLAG": "vivo",
       "Payload": "GET wss://fitality.gr/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
