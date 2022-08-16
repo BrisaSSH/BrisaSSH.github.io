@@ -1,5 +1,5 @@
 {
-  "Version": "5.5.5",
+  "Version": "13.0.0",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/BrisaSSH/OpenSSH4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/BrisaSSH/OpenSSH4g_site/main/UrlSms",
@@ -38,7 +38,7 @@
       "Info": "Tlsws"
    },
     {
-       "Name": "😱TIM VELOZ",
+      "Name": "😱TIM VELOZ",
       "FLAG": "tim",
       "Payload": "GET wss://www.alura.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: mentalista[crlf][crlf]",
       "SNI": "www.alura.com.br",
@@ -47,6 +47,7 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
     },
+    {
       "Name": "💙TIM RAIO",
       "FLAG": "tim",
       "Payload": "GET wss://blog.alura.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
