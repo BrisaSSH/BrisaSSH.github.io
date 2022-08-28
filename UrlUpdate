@@ -90,7 +90,7 @@
     {
       "Name": "🟣VIVO VIP Online 🚀",
       "FLAG": "vivo.png",
-      "Payload": "GET / HTTP/1.1[crlf]Host: cname.calicaweb.xyz[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf],
+      "Payload": "GET / HTTP/1.1[crlf]Host: cname.calicaweb.xyz[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "live.vivo.com.br",
