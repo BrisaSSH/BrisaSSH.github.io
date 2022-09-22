@@ -1,5 +1,5 @@
 {
-  "Version": "10.3.7",
+  "Version": "10.3.8",
   "ReleaseNotes": "Nova Atualização Disponível Tim & Vivo & claro OFF",
   "UrlUpdate": "https://raw.githubusercontent.com/BrisaSSH/OpenSSH4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/BrisaSSH/OpenSSH4g_site/main/UrlSms",
@@ -48,14 +48,14 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "🚀TIM NOVA - 03",
+      "Name": "🚀TIM São Paulo",
       "FLAG": "tim",
-      "Payload": "GET wss://m.timbancavirtual.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "m.timbancavirtual.com.br",
-      "TlsIP": "104.16.134.83",
+      "Payload": "HTTP/ [crlf][crlf]|[crlf]",
+      "SNI": "",
+      "TlsIP": "",
       "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws" 
+      "ProxyPort": "80",
+      "Info": "Direct" 
    },
     {
       "Name": " 🙌TIM NOVA - 04🔥",
