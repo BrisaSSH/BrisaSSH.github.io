@@ -38,7 +38,7 @@
       "Info": "Tlsws"
    },
     {
-     "Name": "TIM GOCACHE",
+      "Name": "TIM GOCACHE",
       "FLAG": "tim",
       "Payload": "GET wss://duvidas.ampli.com.br HTTP/1.1[crlf]Host: go.   calicaweb.xyz.cdn.gocache.net[crlf]Connection: Upgrade[crlf]Upgrade:    Websocket[crlf]Keep-Alive:[crlf][crlf]",
       "SNI": "duvidas.ampli.com.br",
