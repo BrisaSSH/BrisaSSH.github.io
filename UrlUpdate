@@ -1,5 +1,5 @@
 {
-  "Version": "10.3.9",
+  "Version": "10.3.10",
   "ReleaseNotes": "Nova Atualização Disponível Tim & Vivo & claro OFF",
   "UrlUpdate": "https://raw.githubusercontent.com/BrisaSSH/OpenSSH4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/BrisaSSH/OpenSSH4g_site/main/UrlSms",
@@ -38,15 +38,15 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "😱TIM Rio de janeiro",
-      "FLAG": "tim",
-      "Payload": "GET wss://cursolivre.ampli.com.br HTTP/1.1[crlf]Host: calicaweb.xyz[crlf]Upgrade: WebSocket[crlf][crlf]",
-      "SNI": "cursolivre.ampli.com.br",
-      "TlsIP": "cursolivre.ampli.com.br",
-      "ProxyIP": "cursolivre.ampli.com.br",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-    },
+      "Name": "TIM GOCACHE",
+        "FLAG": "tim",
+        "Payload": "GET wss://duvidas.ampli.com.br HTTP/1.1[crlf]Host: go.   calicaweb.xyz.cdn.gocache.net[crlf]Connection: Upgrade[crlf]Upgrade:    Websocket[crlf]Keep-Alive:[crlf][crlf]",
+        "SNI": "duvidas.ampli.com.br",
+        "TlsIP": "104.16.53.111",
+        "ProxyIP": "",
+        "ProxyPort": "443",
+        "Info": "Tlsws"
+   },
     {
       "Name": "🚀TIM São Paulo",
       "FLAG": "tim",
