@@ -200,7 +200,7 @@
     {
       "Name": "❤️CLARO Brasil ON 🚀",
       "FLAG": "claro",
-      "Payload":"GET wss://cdnclaro2.wooza.com.br HTTP/1.1[crlf]Host: go.calicaweb.xyz.cdn.gocache.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET wss://cdnclaro2.wooza.com.br HTTP/1.1[crlf]Host: go.calicaweb.xyz.cdn.gocache.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "cdnclaro2.wooza.com.br",
       "TlsIP": "cdnclaro2.wooza.com.br",
       "ProxyIP": "cdnclaro2.wooza.com.br",
