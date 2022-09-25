@@ -1,5 +1,5 @@
 {
-  "Version": "10.3.10",
+  "Version": "11.3.10",
   "ReleaseNotes": "Nova Atualização Disponível Tim & Vivo & claro OFF",
   "UrlUpdate": "https://raw.githubusercontent.com/BrisaSSH/OpenSSH4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/BrisaSSH/OpenSSH4g_site/main/UrlSms",
@@ -38,7 +38,7 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "TIM GOCACHE",
+     "Name": "TIM GOCACHE",
       "FLAG": "tim",
       "Payload": "GET wss://duvidas.ampli.com.br HTTP/1.1[crlf]Host: go.   calicaweb.xyz.cdn.gocache.net[crlf]Connection: Upgrade[crlf]Upgrade:    Websocket[crlf]Keep-Alive:[crlf][crlf]",
       "SNI": "duvidas.ampli.com.br",
@@ -200,10 +200,10 @@
     {
       "Name": "❤️CLARO Brasil ON 🚀",
       "FLAG": "claro",
-      "Payload":"GET wss://player-api.new.livestream.com HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "player-api.new.livestream.com",
-      "TlsIP": "player-api.new.livestream.com",
-      "ProxyIP": "",
+      "Payload":"GET wss://cdnclaro2.wooza.com.br HTTP/1.1[crlf]Host: go.calicaweb.xyz.cdn.gocache.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "cdnclaro2.wooza.com.br",
+      "TlsIP": "cdnclaro2.wooza.com.br",
+      "ProxyIP": "cdnclaro2.wooza.com.br",
       "ProxyPort": "443",
       "Info": "Tlsws"
    },
