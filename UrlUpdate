@@ -1,6 +1,6 @@
 {
-  "Version": "85.0.101",
-  "ReleaseNotes": "Nova Atualização Disponível Tim & Vivo",
+  "Version": "85.0.102",
+  "ReleaseNotes": "Nova Atualização Disponível Vivo & Tim em Test",
   "UrlUpdate": "https://raw.githubusercontent.com/BrisaSSH/OpenSSH4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/BrisaSSH/OpenSSH4g_site/main/UrlSms",
   "EmailFeedback": "fiftyhostvpn@gmail.com",
@@ -46,7 +46,17 @@
       "ProxyIP": "static.r4you.co",
       "ProxyPort": "443",
       "Info": "Tlsws"
-    },
+   },
+    {
+      "Name": "🟦 TIM✅🤜JALLL🤛 🔵✅ 01",
+      "FLAG": "tim",
+      "Payload": "HTTP/ [crlf][crlf]|[crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "calicaweb.xyz",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+   },
     {
       "Name": "🤔TIM TEST",
       "FLAG": "tim",
@@ -78,7 +88,7 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "✅🚀PREFERENCIAL 01",
+      "Name": "✅ViVO PREFERENCIAL 01",
       "FLAG": "vivo",
       "Payload": "GET wss://unpkg.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "unpkg.com",
@@ -88,7 +98,7 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "🟣VIVO VIP Online off🚀",
+      "Name": "🟣VIVO off",
       "FLAG": "vivo.png",
       "Payload": "GET / HTTP/1.1[crlf]Host: cname.calicaweb.xyz[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
@@ -98,7 +108,7 @@
       "Info": "Proxy"
     },
       {
-      "Name": "✅🚀PREFERENCIAL ok 2",
+      "Name": "💜VIVO PREFERENCIAL ok 2",
       "FLAG": "vivo.png",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
