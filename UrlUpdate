@@ -48,11 +48,11 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "🚀TIM NOVA - 03",
+      "Name": "🤔TIM TEST",
       "FLAG": "tim",
-      "Payload": "GET wss://m.timbancavirtual.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "m.timbancavirtual.com.br",
-      "TlsIP": "104.16.134.83",
+      "Payload": "GET wss://duvidas.ampli.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Origin: google.com[crlf][crlf]",
+      "SNI": "duvidas.ampli.com.br",
+      "TlsIP": "104.16.53.111",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws" 
