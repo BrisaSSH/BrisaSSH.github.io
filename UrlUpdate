@@ -1,5 +1,5 @@
 {
-  "Version": "85.0.106",
+  "Version": "85.0.107",
   "ReleaseNotes": "Nova Atualização Disponível Vivo & Tim em Test",
   "UrlUpdate": "https://raw.githubusercontent.com/BrisaSSH/OpenSSH4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/BrisaSSH/OpenSSH4g_site/main/UrlSms",
@@ -30,7 +30,7 @@
    {
       "Name": "🔵TIM BALADA [2]",
       "FLAG": "tim",
-      "Payload": "PROPPATCH wss://auth-uat-us.surveymonkey.com/ HTTP/1.200 [lf]Host: avnet.tk[lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
+      "Payload": "PROPPATCH wss://auth-uat-us.surveymonkey.com/ HTTP/1.200 [lf]Host: calicaweb.xyz[lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
       "SNI": "auth-uat-us.surveymonkey.com",
       "TlsIP": "104.18.7.22",
       "ProxyIP": "",
@@ -40,7 +40,7 @@
     {
       "Name": "🔵TIMKY WINKY  [3]",
       "FLAG": "tim",
-      "Payload": "GET wss://support.deezer.com HTTP/1.1[crlf]Host: avsupernet.ga[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET wss://support.deezer.com HTTP/1.1[crlf]Host: calicaweb.xyz[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "support.deezer.com",
       "TlsIP": "104.16.51.111",
       "ProxyIP": "",
@@ -50,7 +50,7 @@
     {
       "Name": "🔵TIM [Opção 4]",
       "FLAG": "tim",
-      "Payload": "GET wss://auth-uat-us.surveymonkey.com HTTP/1.1[crlf]Host: avnet.tk[crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET wss://auth-uat-us.surveymonkey.com HTTP/1.1[crlf]Host: calicaweb.xyz[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "auth-uat-us.surveymonkey.com",
       "TlsIP": "104.18.7.22",
       "ProxyIP": "",
@@ -60,7 +60,7 @@
     {
       "Name": "🔵TIM [Opção 5]",
       "FLAG": "tim",
-      "Payload": "GET wss://smainfo.surveymonkey.com HTTP/1.1[crlf]Host: avnet.tk[crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: WebSocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
+      "Payload": "GET wss://smainfo.surveymonkey.com HTTP/1.1[crlf]Host: calicaweb.xyz[crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: WebSocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
       "SNI": "smainfo.surveymonkey.com",
       "TlsIP": "smainfo.surveymonkey.com",
       "ProxyIP": "",
@@ -70,7 +70,7 @@
     {
       "Name": "🔵TIM ONE [15]",
       "FLAG": "tim",
-      "Payload": "GET wss://api.onesignal.com/ HTTP/1.1[crlf]Host: avnet.tk [crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET wss://api.onesignal.com/ HTTP/1.1[crlf]Host: calicaweb.xyz [crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "api.onesignal.com",
       "TlsIP": "api.onesignal.com",
       "ProxyIP": "api.onesignal.com",
@@ -80,7 +80,7 @@
     {
       "Name": "TIM & VIVO 10",
       "FLAG": "tim",
-      "Payload": "GET wss://support.deezer.com HTTP/1.1[crlf]Host: avsupernet.ga[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET wss://support.deezer.com HTTP/1.1[crlf]Host: calicaweb.xyz[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "support.deezer.com",
       "TlsIP": "104.16.51.111",
       "ProxyIP": "",
@@ -90,7 +90,7 @@
     {
       "Name": "👇SELECIONE SUA OPERADORA AQUI👇 Tim & Vivo",
       "FLAG": "tim",
-      "Payload": "GET wss://workplaceservices.surveymonkey.com HTTP/1.1[crlf]Host: avnet.tk[crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: WebSocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
+      "Payload": "GET wss://workplaceservices.surveymonkey.com HTTP/1.1[crlf]Host: calicaweb.xyz[crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: WebSocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
       "SNI": "workplaceservices.surveymonkey.com",
       "TlsIP": "workplaceservices.surveymonkey.com",
       "ProxyIP": "104.16.51.111",
@@ -190,7 +190,7 @@
     {
       "Name": "📱 VIVO ROTATE 06 📡💜",
       "FLAG": "vivo",
-      "Payload": "GET wss://[rotate=gracegardencounseling.com;bam.nr-data.net;avnet.tk;vivoid.vivo.com.br;melhorplano.net;vivo360.vivo.com.br;vivorio.com.br;selectra.net.br;gprs.digitel.com.ve;power4fit.com;bolsas.alfaumuarama.edu.br;eventos.alfaumuarama.edu.br;concursos.alfaumuarama.edu.br;legado.vivo.com.br;carrinho-pos-familia.vivo.com.br;unpkg.com;cdnjs.cloudflare.com;portaljud.vivo.com.br;vivoemdia.vivo.com.br;fly218.com;rapehun.com] HTTP/1.1[lf]Host: avnet.tk[lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
+      "Payload": "GET wss://[rotate=gracegardencounseling.com;bam.nr-data.net;calicaweb.xyz;vivoid.vivo.com.br;melhorplano.net;vivo360.vivo.com.br;vivorio.com.br;selectra.net.br;gprs.digitel.com.ve;power4fit.com;bolsas.alfaumuarama.edu.br;eventos.alfaumuarama.edu.br;concursos.alfaumuarama.edu.br;legado.vivo.com.br;carrinho-pos-familia.vivo.com.br;unpkg.com;cdnjs.cloudflare.com;portaljud.vivo.com.br;vivoemdia.vivo.com.br;fly218.com;rapehun.com] HTTP/1.1[lf]Host: calicaweb.xyz[lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
 "SNI": "",
 "TlsIP": "",
 "ProxyIP": "104.18.7.80",
