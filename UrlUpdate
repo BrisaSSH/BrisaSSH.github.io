@@ -17,7 +17,7 @@
       "Name": "⚡BRASIL CLOUD",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "calicaweb.xyz",
+      "ServerIP": "v2rayhost.online",
       "CheckUser": "http://152.67.62.241:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
