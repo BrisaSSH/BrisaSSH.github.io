@@ -1,6 +1,6 @@
 {
-  "Version": "85.0.112",
-  "ReleaseNotes": "Nova Atualização Disponível Vivo, Tim, Claro ,Oi",
+  "Version": "85.0.113",
+  "ReleaseNotes": "Nova Atualização Disponível Vivo, Claro, Oi",
   "UrlUpdate": "https://raw.githubusercontent.com/BrisaSSH/OpenSSH4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/BrisaSSH/OpenSSH4g_site/main/UrlSms",
   "EmailFeedback": "fiftyhostvpn@gmail.com",
@@ -18,7 +18,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "v2rayhost.online",
-      "CheckUser": "http://152.67.62.241:5454/checkUser",
+      "CheckUser": "http://144.22.190.61:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
@@ -208,12 +208,12 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "🔴𝗖𝗟𝗔𝗥𝗢 RESIDENCIAL 2  [3]",
+      "Name": "🔴𝗖𝗟𝗔𝗥𝗢 Privado 🦅",
       "FLAG": "claro",
-      "Payload": "CONNECT-SI http://minhaclaroresidencial.claro.com.br HTTP/1.0[crlf]Host: [app_host]http://minhaclaroresidencial.claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
+      "Payload": "GET wss://cname.v2rayhost.online HTTP/1.1[crlf]Host: metadatadb.lab.smartcontent.clarobrasil.mobi[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "[app_host]",
+      "ProxyIP": "metadatadb.lab.smartcontent.clarobrasil.mobi",
       "ProxyPort": "80",
       "Info": "Proxy"
    },
@@ -280,12 +280,12 @@
     {
       "Name": "💛OI FAST",
       "FLAG": "oi",
-      "Payload": "CONNECT-SI ws://www.hbogo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
-      "SNI": "www.hbogo.com.br",
-      "TlsIP": "www.hbogo.com.br",
-      "ProxyIP": "",
+      "Payload": "GET / HTTP/1.1[crlf]Host: v2rayhost.online[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.16.51.111",
       "ProxyPort": "",
-      "Info": "Tlsws"
+      "Info": "Proxy"
    },
     {
       "Name": "🟡𝗢𝗜 HBO GO [8]",
