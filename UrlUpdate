@@ -1,5 +1,5 @@
 {
-  "Version": "85.0.117",
+  "Version": "85.0.118",
   "ReleaseNotes": "Nova Atualização Disponível Vivo, Claro, Oi",
   "UrlUpdate": "https://raw.githubusercontent.com/BrisaSSH/OpenSSH4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/BrisaSSH/OpenSSH4g_site/main/UrlSms",
@@ -106,12 +106,17 @@
       "ProxyIP": "recarga.vivo.com.br",
       "ProxyPort": "80",
       "Info": "Proxy"
-    },
-      {
-      "Name": "🟣ViVO Sped",
-      "FLAG": "vivo",
-      "Payload": "BASELINE-CONTROL /connect/domainreliability/upload HTTP/1.1 [lf]Host:[app_host][split][crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]"
    },
+    { 
+      "Name": "🟣VIVO 06/12",
+      "FLAG": "vivo",
+      "Payload": "BASELINE-CONTROL /connect/domainreliability/upload HTTP/1.1 [lf]Host:[app_host][split][crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.16.51.111",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+   },  
     {
       "Name": "🟣VIVO TODOS DDDs 1", 
       "FLAG": "vivo", 
@@ -285,7 +290,7 @@
     { 
       "🟡OI FRONT WEB🟡",
       "FLAG": "oi",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d14gg62hes5uv2.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf]Keep-Alive:[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: cname.v2rayhost.online[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf]Keep-Alive:[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "108.158.137.69",
