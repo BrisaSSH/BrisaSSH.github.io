@@ -1,5 +1,5 @@
 {
-  "Version": "85.0.119",
+  "Version": "85.0.120",
   "ReleaseNotes": "Nova Atualização Disponível Vivo, Claro, Oi",
   "UrlUpdate": "https://raw.githubusercontent.com/BrisaSSH/OpenSSH4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/BrisaSSH/OpenSSH4g_site/main/UrlSms",
@@ -17,7 +17,7 @@
       "Name": "⚡BRASIL 🇧🇷",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "v2rayhost.online",
+      "ServerIP": "xp.v2rayhost.online",
       "CheckUser": "http://144.22.190.61:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -150,7 +150,7 @@
     {
       "Name": "Vivo 01",
       "FLAG": "Vivo",
-      "Payload": "CONNECT-SI wss://cardinalcommerce.com HTTP/1.1[crlf]Host: v2rayhost.online[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf]Keep-Alive:[crlf][crlf]",
+      "Payload": "CONNECT-SI wss://cardinalcommerce.com HTTP/1.1[crlf]Host: xp.v2rayhost.online[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf]Keep-Alive:[crlf][crlf]",
       "SNI": "cardinalcommerce.com",
       "TlsIP": "cardinalcommerce.com",
       "ProxyIP": "",
@@ -160,7 +160,7 @@
     { 
       "Name": "🟣 VIVO TOP 🟣",
       "FLAG": "vivo",
-      "Payload": "CONNECT-I wss://cardinalcommerce.com HTTP/1.1[crlf]Host: v2rayhost.online[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf]Keep-Alive:[crlf][crlf]",
+      "Payload": "CONNECT-I wss://cardinalcommerce.com HTTP/1.1[crlf]Host: xp.v2rayhost.online[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf]Keep-Alive:[crlf][crlf]",
       "SNI": "cardinalcommerce.com",
       "TlsIP": "duvidas.ampli.com.br",
       "ProxyIP": "",
@@ -280,7 +280,7 @@
     {
       "Name": "💛OI FAST",
       "FLAG": "oi",
-      "Payload": "GET / HTTP/1.1[crlf]Host: v2rayhost.online[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: xp.v2rayhost.online[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.16.51.111",
