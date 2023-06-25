@@ -1,5 +1,5 @@
 {
-  "Version": "2023.02.38",
+  "Version": "2023.02.39",
   "ReleaseNotes": "Nova Atualização Disponível 🦸🏻 \n\n MANTENHA O APLICATIVO \n SEMPRE ATUALIZANDO•••\n🆚 Versão: 2023.02.19.\n•••••ATUALIZE PARA QUE O SISTEMA CONTINUE FUNCIONANDO ••••••••\n🔰Funcionando 🔵 TIM 🟠 OI 🟢 VIVO 🧑‍🔧\n===============================\n🗣",
   "UrlUpdate": "https://raw.githubusercontent.com/BrisaSSH/OpenSSH4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/BrisaSSH/OpenSSH4g_site/main/UrlSms",
@@ -98,12 +98,12 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "🟣VIVO 🚀🇧🇷",
+      "Name": "🟣VIVO ON 🪖",
       "FLAG": "vivo.png",
       "Payload": "GET / HTTP/1.1[crlf]Host: cname.v2rayhost.online[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "recarga.vivo.com.br",
+      "ProxyIP": "108.158.122.48",
       "ProxyPort": "80",
       "Info": "Proxy"
    },
