@@ -1,5 +1,5 @@
 {
-  "Version": "2023.02.39",
+  "Version": "2023.03.39",
   "ReleaseNotes": "Nova Atualização Disponível 🦸🏻 \n\n MANTENHA O APLICATIVO \n SEMPRE ATUALIZANDO•••\n🆚 Versão: 2023.02.19.\n•••••ATUALIZE PARA QUE O SISTEMA CONTINUE FUNCIONANDO ••••••••\n🔰Funcionando 🔵 TIM 🟠 OI 🟢 VIVO 🧑‍🔧\n===============================\n🗣",
   "UrlUpdate": "https://raw.githubusercontent.com/BrisaSSH/OpenSSH4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/BrisaSSH/OpenSSH4g_site/main/UrlSms",
@@ -17,7 +17,7 @@
       "Name": "⚡BRASIL 🇧🇷",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "xp.v2rayhost.online",
+      "ServerIP": "calicaonline.online",
       "CheckUser": "http://144.22.190.61:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -100,7 +100,7 @@
     {
       "Name": "🟣VIVO ON 🪖",
       "FLAG": "vivo.png",
-      "Payload": "GET / HTTP/1.1[crlf]Host: cname.v2rayhost.online[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: cname.calicaonline.online[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "108.158.122.48",
@@ -140,8 +140,8 @@
     {
       "Name": "💜VIVO 080",
       "FLAG": "vivo",
-      "Payload": "GET-TOPSPEED wss://v2rayhost.online/ HTTP/1.1[crlf]Host: v2rayhost.online[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Referer: TOPSPEED[crlf][crlf]",
-              "SNI": "v2rayhost.online",
+      "Payload": "GET-TOPSPEED wss://calicaonline.online/ HTTP/1.1[crlf]Host: calicaonline.online[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Referer: TOPSPEED[crlf][crlf]",
+              "SNI": "calicaonline.online",
               "TlsIP": "104.16.53.111",
               "ProxyIP": "",
               "ProxyPort": "443",
@@ -150,7 +150,7 @@
     {
       "Name": "Vivo 01",
       "FLAG": "Vivo",
-      "Payload": "CONNECT-SI wss://cardinalcommerce.com HTTP/1.1[crlf]Host: xp.v2rayhost.online[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf]Keep-Alive:[crlf][crlf]",
+      "Payload": "CONNECT-SI wss://cardinalcommerce.com HTTP/1.1[crlf]Host: calicaonline.online[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf]Keep-Alive:[crlf][crlf]",
       "SNI": "cardinalcommerce.com",
       "TlsIP": "cardinalcommerce.com",
       "ProxyIP": "",
@@ -160,7 +160,7 @@
     { 
       "Name": "🟣 VIVO TOP 🟣",
       "FLAG": "vivo",
-      "Payload": "CONNECT-I wss://cardinalcommerce.com HTTP/1.1[crlf]Host: xp.v2rayhost.online[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf]Keep-Alive:[crlf][crlf]",
+      "Payload": "CONNECT-I wss://cardinalcommerce.com HTTP/1.1[crlf]Host: calicaonline.online[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf]Keep-Alive:[crlf][crlf]",
       "SNI": "cardinalcommerce.com",
       "TlsIP": "duvidas.ampli.com.br",
       "ProxyIP": "",
@@ -200,7 +200,7 @@
     {
       "Name": "CLARO & VIVO CDN ❤️",
             "FLAG": "claro",
-            "Payload": "GET wss://[rotate=cname.v2rayhost.online] HTTP/1.1[crlf]Host: origin.api.amxrest.net[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
+            "Payload": "GET wss://[rotate=cname.calicaonline.online] HTTP/1.1[crlf]Host: origin.api.amxrest.net[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "origin.api.amxrest.net",
@@ -210,7 +210,7 @@
     {
       "Name": "🔴𝗖𝗟𝗔𝗥𝗢 Privado 🦅",
       "FLAG": "claro",
-      "Payload": "GET wss://cname.v2rayhost.online HTTP/1.1[crlf]Host: metadatadb.lab.smartcontent.clarobrasil.mobi[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET wss://cname.calicaonline.online HTTP/1.1[crlf]Host: metadatadb.lab.smartcontent.clarobrasil.mobi[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "metadatadb.lab.smartcontent.clarobrasil.mobi",
@@ -280,7 +280,7 @@
     {
       "Name": "💛OI FAST",
       "FLAG": "oi",
-      "Payload": "GET / HTTP/1.1[crlf]Host: xp.v2rayhost.online[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: calicaonline.online[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.16.51.111",
@@ -290,7 +290,7 @@
     { 
       "Name": "🟡OI FRONT WEB🟡",
       "FLAG": "oi",
-      "Payload": "GET / HTTP/1.1[crlf]Host: cname.v2rayhost.online[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf]Keep-Alive:[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: cname.calicaonline.online[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf]Keep-Alive:[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "108.158.137.69",
