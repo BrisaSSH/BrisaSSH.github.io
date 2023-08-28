@@ -1,5 +1,5 @@
 {
-  "Version": "2023.03.41",
+  "Version": "2023.03.42",
   "ReleaseNotes": "Nova Atualização Disponível 🦸🏻 \n\n MANTENHA O APLICATIVO \n SEMPRE ATUALIZANDO•••\n🆚 Versão: 2023.02.19.\n•••••ATUALIZE PARA QUE O SISTEMA CONTINUE FUNCIONANDO ••••••••\n🔰Funcionando 🔵 TIM 🟠 OI 🟢 VIVO 🧑‍🔧\n===============================\n🗣",
   "UrlUpdate": "https://raw.githubusercontent.com/BrisaSSH/OpenSSH4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/BrisaSSH/OpenSSH4g_site/main/UrlSms",
@@ -108,9 +108,9 @@
       "Info": "Proxy"
    },
     { 
-      "Name": "🟣VIVO 18/23 ON",
+      "Name": "🟣VIVO NET +",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: calicaonline.online[crlf]Upgrade:x websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: fiffy.worldofdragon.net[crlf]Upgrade:x websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.16.51.111",
