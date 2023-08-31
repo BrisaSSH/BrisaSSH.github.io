@@ -1,6 +1,6 @@
 {
-  "Version": "2023.03.49",
-  "ReleaseNotes": "Nova Atualização Disponível 🦸🏻 \n\n MANTENHA O APLICATIVO \n SEMPRE ATUALIZANDO•••\n🆚 Versão: 2023.02.19.\n•••••ATUALIZE PARA QUE O SISTEMA CONTINUE FUNCIONANDO ••••••••\n🔰Funcionando 🔵 TIM 🟠 OI 🟢 VIVO 🧑‍🔧\n===============================\n🗣",
+  "Version": "2023.03.50",
+  "ReleaseNotes": "Nova Atualização Disponível 🦸🏻 \n\n MANTENHA O APLICATIVO \n SEMPRE ATUALIZANDO•••\n🆚 Versão: 2023.02.19.\n•••••ATUALIZE PARA QUE O SISTEMA CONTINUE FUNCIONANDO ••••••••\n🔰Funcionando VIVO 🧑‍🔧\n===============================\n🗣",
   "UrlUpdate": "https://raw.githubusercontent.com/BrisaSSH/OpenSSH4g_site/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/BrisaSSH/OpenSSH4g_site/main/UrlSms",
   "EmailFeedback": "fiftyhostvpn@gmail.com",
@@ -108,12 +108,12 @@
       "Info": "Proxy"
    },
     { 
-      "Name": "🟣VIVO NET +",
+      "Name": "🟣VIVO GV ☔⚡",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: fiffy.worldofdragon.net[crlf]Upgrade:x websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: cname.calicaonline.online[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "104.16.51.111",
+      "ProxyIP": "13.227.126.39",
       "ProxyPort": "80",
       "Info": "Proxy"
    },  
